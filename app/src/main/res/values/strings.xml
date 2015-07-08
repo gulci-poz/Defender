@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Defender</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="play_game">Play</string>
+    <string name="high_score">High score: 99999</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="game_activity_info">Game Activity</string>
+</resources>
